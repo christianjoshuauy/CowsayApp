@@ -1,0 +1,14 @@
+/home/tr1b1iwnl/CowsayApp/bin/Debug/net9.0/CowsayApp
+/home/tr1b1iwnl/CowsayApp/bin/Debug/net9.0/CowsayApp.deps.json
+/home/tr1b1iwnl/CowsayApp/bin/Debug/net9.0/CowsayApp.runtimeconfig.json
+/home/tr1b1iwnl/CowsayApp/bin/Debug/net9.0/CowsayApp.dll
+/home/tr1b1iwnl/CowsayApp/bin/Debug/net9.0/CowsayApp.pdb
+/home/tr1b1iwnl/CowsayApp/obj/Debug/net9.0/CowsayApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/tr1b1iwnl/CowsayApp/obj/Debug/net9.0/CowsayApp.AssemblyInfoInputs.cache
+/home/tr1b1iwnl/CowsayApp/obj/Debug/net9.0/CowsayApp.AssemblyInfo.cs
+/home/tr1b1iwnl/CowsayApp/obj/Debug/net9.0/CowsayApp.csproj.CoreCompileInputs.cache
+/home/tr1b1iwnl/CowsayApp/obj/Debug/net9.0/CowsayApp.dll
+/home/tr1b1iwnl/CowsayApp/obj/Debug/net9.0/refint/CowsayApp.dll
+/home/tr1b1iwnl/CowsayApp/obj/Debug/net9.0/CowsayApp.pdb
+/home/tr1b1iwnl/CowsayApp/obj/Debug/net9.0/CowsayApp.genruntimeconfig.cache
+/home/tr1b1iwnl/CowsayApp/obj/Debug/net9.0/ref/CowsayApp.dll
